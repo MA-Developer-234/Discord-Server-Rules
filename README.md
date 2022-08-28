@@ -5,7 +5,7 @@
 
 <br>
 
- - <b>Please respect and follow everything put under the (Discord Terms of Service)[https://discord.com/terms] and (Community Guidelines)[https://discord.com/guidelines].</b>
+ - <b>Please respect and follow everything put under the [Discord Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).</b>
  - <b>Be respectful in the Server.</b>
  - <b>No Advertisement</b>
  - <b>Just listen to mods, arguing or harassing mods will lead to a mute/kick/ban.</b>
